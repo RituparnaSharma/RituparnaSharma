@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/0*CHs47eo87tMPd_-q.gif)]
+[![MasterHead](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F5fxny70880xb1.gif)]
 <h1 align="center">Hi 👋, I'm Rituparna Sharma</h1
 <h3 align="center">Data Scientist</h3>
 <img align = ""right" alt="coding" width="400" src="https://admconsulting.in/wp-content/uploads/2021/08/coding-freak-min.gif">
