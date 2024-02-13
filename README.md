@@ -1,7 +1,7 @@
-![MasterHead](https://i.redd.it/5fxny70880xb1.gif)
+![MasterHead](/images/ezgif.com1_cut.gif)
 <h1 align="center">Hi 👋, I'm Rituparna Sharma</h1
 <h3 align="center">Data Scientist</h3>
-<img align = ""right" alt="coding" width="400" src="https://admconsulting.in/wp-content/uploads/2021/08/coding-freak-min.gif">
+<img align="right" alt="coding" width="400" src="https://admconsulting.in/wp-content/uploads/2021/08/coding-freak-min.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rituparnasharma&label=Profile%20views&color=0e75b6&style=flat" alt="rituparnasharma" /> </p>
 
 - 🔭 I’m currently working on [smartpal](https://github.com/RituparnaSharma/SmartPal)
